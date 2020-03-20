@@ -1,0 +1,14 @@
+- [x]  Database Aanmaken
+- [x]  Tabel Aanmaken voor Admin
+- [x]  Tabel Aanmaken voor Gebruikers
+- [x]  Tabel Aanmaken voor Klanten
+
+- [x]  Tabel Aanmaken voor categorieën
+- [x]  Tabel Aanmaken voor producten
+- [x]  Tabel Aanmaken voor product-foto's
+- [x]  Tabellen vullen met demo data
+---
+- [x]  Database verbinden met de code
+- [x]  Formulier data opvangen in PHP
+- [x]  Formulier data in het Database zetten
+- [x]  **EXTRA**: Formulier data valideren
